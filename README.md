@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🛡️ Shayan | Aspiring Cybersecurity Analyst 🚩
 
-<!--
-**NFSHAYYAN/NFSHAYYAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "The quieter you become, the more you are able to hear."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I am a dedicated 2nd-semester University student focused on mastering the art of **Defensive Security** and **Network Protection**. I believe skills speak louder than grades, and I spend my days building tools and breaking down complex security architectures.
+
+- 🔭 **Currently working on:** Try Hack ME Modules with Cisco Ethical hacking course
+- 🎓 **Semester:** 2nd Semester CS
+- ⚡ **Fun Fact:** Actively building my "Hacker Identity" 
+
+---
+
+## 🛠️ Technical Arsenal
+| Category | Tools & Skills |
+| :--- | :--- |
+| **Security** | Password Entropy, Vulnerability Analysis, Cryptography |
+| **Networking** | OSI Model, VLANs, VPNs, Layer 2/3 Switching |
+| **Development** | HTML5, CSS3, JavaScript (Logic Design) |
+| **Platforms** | Linux (Ubuntu), GitHub, TryHackMe |
+
+---
+
+## 📈 My Learning Path (TryHackMe)
+- ✅ **Intro to Cyber** - *Completed*
+- ✅ **Network Fundamentals** - *Completed*
+- 🏗️ **Software Basics** - *In Progress*
+- 🏗️ **Cryptography** - *In Progress*
+
+---
+📫 **Let's Connect:** [Your LinkedIn Link Here]
