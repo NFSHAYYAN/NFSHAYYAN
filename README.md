@@ -30,4 +30,4 @@ I am a dedicated 2nd-semester University student focused on mastering the art of
 - 🏗️ **Cryptography** - *In Progress*
 
 ---
-📫 **Let's Connect:** [Your LinkedIn Link Here]
+📫 **Let's Connect:** www.linkedin.com/in/shayyan-shakoor-a796723b1
