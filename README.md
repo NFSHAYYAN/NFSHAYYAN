@@ -13,7 +13,7 @@ I am a dedicated 2nd-semester University student focused on mastering the art of
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 | Category | Tools & Skills |
 | :--- | :--- |
 | **Security** | Password Entropy, Vulnerability Analysis, Cryptography |
@@ -23,11 +23,9 @@ I am a dedicated 2nd-semester University student focused on mastering the art of
 
 ---
 
-## 📈 My Learning Path (TryHackMe)
-- ✅ **Intro to Cyber** - *Completed*
-- ✅ **Network Fundamentals** - *Completed*
-- 🏗️ **Software Basics** - *In Progress*
-- 🏗️ **Cryptography** - *In Progress*
+##  My Learning Path (TryHackMe)
+-  **Assembly Language** - *In Process*
+-  **Pre Security(TryHackMe)** - *Completed*
 
 ---
-📫 **Let's Connect:** www.linkedin.com/in/shayyan-shakoor-a796723b1
+ **Let's Connect:** www.linkedin.com/in/shayyan-shakoor-a796723b1
