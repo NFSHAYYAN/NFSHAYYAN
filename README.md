@@ -1,4 +1,4 @@
-#  Shayan | Aspiring Cybersecurity Analyst 🚩
+#  Shayyan | Aspiring Cybersecurity Analyst 🚩
 
 ### "The quieter you become, the more you are able to hear."
 
