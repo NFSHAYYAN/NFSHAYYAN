@@ -1,15 +1,15 @@
-# 🛡️ Shayan | Aspiring Cybersecurity Analyst 🚩
+#  Shayan | Aspiring Cybersecurity Analyst 🚩
 
 ### "The quieter you become, the more you are able to hear."
 
 ---
 
-## 👨‍💻 About Me
+## About Me:
 I am a dedicated 2nd-semester University student focused on mastering the art of **Defensive Security** and **Network Protection**. I believe skills speak louder than grades, and I spend my days building tools and breaking down complex security architectures.
 
-- 🔭 **Currently working on:** Try Hack ME Modules with Cisco Ethical hacking course
-- 🎓 **Semester:** 2nd Semester CS
-- ⚡ **Fun Fact:** Actively building my "Hacker Identity" 
+-  **Currently working on:** Try Hack ME Modules with Cisco Ethical hacking course
+-  **Semester:** 2nd Semester CS
+-  **Fun Fact:** Actively building my "Hacker Identity" 
 
 ---
 
